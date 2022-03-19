@@ -7,4 +7,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
  
-  `https://github.com/kubray14/kodluyoruzilkrepo.git`
+  ```
+  git clone https://github.com/kubray14/kodluyoruzilkrepo.git
+  ```
